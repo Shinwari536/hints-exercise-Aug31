@@ -1,0 +1,2 @@
+# Exercise
+Write the function sum_by_key which gets a list of key-value pairs, and returns a list of key-value pairs, where each key in the returned list appears once, and its value is the sum of the values that correspond to the same key in the input list. For example given the list (3, 5), (1, 10), (3, 1), (3, 8), (1, 20) the function should return (1, 30), (3, 14) (the order of the keys is not important).
